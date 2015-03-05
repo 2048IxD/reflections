@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Git sarts to keep history of changes to the files.
+	In order to help to debug.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	staging area is the intermediate area where, one can choose before what files 
+	to be commited to repository. Its offers to save only altered files.
