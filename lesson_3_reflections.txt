@@ -8,3 +8,9 @@ stay up-to-date with your remote repository?
 	
 	Because u would wnat to continue working on without being interuppted by chang made
 	by someone else on repo to effect your work.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	
+	Fork is making copy of repo on github, clones is making a copy of repo on github to local
+	directory, branches is on existing repos.Fork is used when u want to work on github
+	directly, clones to work locally on ur computer, branches to work on ur own copy of a repo.
